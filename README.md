@@ -1,2 +1,1 @@
-# amplifydemo
-React Next.js app to test amplify hosting
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
